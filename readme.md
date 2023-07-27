@@ -2,8 +2,8 @@
 
 ## About
 
-This repository contains my solutions to the exercises in the [C++
-track](https://exercism.org/tracks/cpp) on [Exercism](https://exercism.org/).
+This repository contains my solutions to the exercises in the
+[![C++ Track](https://img.shields.io/badge/C++Track%20-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://exercism.org/tracks/cpp) on [Exercism](https://exercism.org/).
 
 ## Why Am I Learning C++?
 
@@ -18,6 +18,9 @@ performance and the STL.
 
 - [C++ Reference](https://en.cppreference.com/w/)
 - [Exercism Forum](https://forum.exercism.org/c/programming/cpp/78)
+- [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+- [c++-faq](https://isocpp.org/faq)
+- [c++-faq (StackOverflow)](https://stackoverflow.com/tags/c%2b%2b-faq/info)
 
 ## My Exercism Profile
 
